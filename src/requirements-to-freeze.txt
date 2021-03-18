@@ -23,7 +23,7 @@ Flask >= 1.0.0, < 2.*
 # Our own webserver
 uWSGI
 # Image manipulation
-Pillow >= 5.2.0, < 6.*
+Pillow >= 5.2.0, < 8.0
 # Database connection (for SlugList)
 psycopg2 >= 2.7
 # For reading settings
