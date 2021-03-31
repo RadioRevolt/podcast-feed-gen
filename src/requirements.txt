@@ -40,7 +40,7 @@ gunicorn==19.6.0
 idna==2.8
 itsdangerous==0.24
 Jinja2==2.11.1
-lxml==4.2.3
+lxml==4.6.3
 MarkupSafe==1.0
 py==1.5.4
 python-dateutil==2.7.3
